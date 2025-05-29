@@ -17,7 +17,7 @@ export default function PostCard({ $id, title, featuredimage }) {
             />
           ) : (
             <div className="bg-gray-300 h-48 rounded-xl flex items-center justify-center text-gray-600">
-              No Image
+              Image Loading...
             </div>
           )}
         </div>

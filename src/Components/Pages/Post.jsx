@@ -54,7 +54,7 @@ export default function Post() {
 )}
 <TiDeleteOutline className="w-8 h-8 cursor-pointer" onClick={crossPage}/>
                     {isAuthor && (
-                        <div className="absolute right-6 top-6">
+                        <div className="absolute right-16 top-6">
                             <Link to={`/edit-post/${post.$id}`}>
                                 <Button bgColor="bg-green-500" className="mr-3">
                                     Edit
