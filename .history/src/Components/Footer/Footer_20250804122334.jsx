@@ -24,7 +24,7 @@ function Footer() {
                             <FaGoogle className='w-7 h-7'/>
                             </div>
                             <div>
-                                <p className="text-lg font-bold text-white mt-10 ml-18">
+                                <p className="text-sm font-bold text-white mt-10 ml-18">
                                     &copy; Copyright 2025 & by Rajan Singh Bhardwaj <SiGithubsponsors className='inline ml-1 w-5 h-5'color='red'/>
                                 </p>
                             </div>
